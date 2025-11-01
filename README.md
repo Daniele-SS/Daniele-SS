@@ -37,9 +37,4 @@
   </a>
 </div>
 
-
-###
-
-<img src="https://raw.githubusercontent.com/Daniele-SS/Daniele-SS/output/snake.svg" alt="Snake animation" />
-
 ###
