@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Daniele, a student at SENAI, currently studying a Technical Course in Development of Systems and taking a Professional Improvement Course in Design UI/UX. I'm passionate about technology and learning new skills.</h2>
+<h2 align="center">Atualmente me dedico ao estudo de programação e ao aprimoramento em Design UI/UX, buscando compreender tanto a lógica por trás do desenvolvimento quanto a forma como as pessoas interagem com interfaces. Meu foco é construir projetos que unam funcionalidade, clareza e boa experiência do usuário, enquanto avanço no meu desenvolvimento técnico e criativo dentro do universo da tecnologia.</h2>
 
 ###
 
