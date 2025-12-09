@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Atualmente me dedico ao estudo de programação e ao aprimoramento em Design UI/UX, buscando compreender tanto a lógica por trás do desenvolvimento quanto a forma como as pessoas interagem com interfaces. Meu foco é construir projetos que unam funcionalidade, clareza e boa experiência do usuário, enquanto avanço no meu desenvolvimento técnico e criativo dentro do universo da tecnologia.
+Atualmente me dedico ao estudo de programação e ao aprimoramento em Design UI e UX, buscando compreender tanto a lógica por trás do desenvolvimento quanto a forma como as pessoas interagem com interfaces. Meu foco é construir projetos que unam funcionalidade, clareza e boa experiência do usuário, enquanto avanço no meu desenvolvimento técnico e criativo dentro do universo da tecnologia.
 
 
 
