@@ -3,7 +3,7 @@ Atualmente me dedico ao estudo de programação e ao aprimoramento em Design UI/
 
 
 ## 🌐 Redes Sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daniellesillva/)
+[![LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/daniellesillva/)
 
 
 ### 🔝 Repositórios com maiores contribuições
