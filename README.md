@@ -1,11 +1,12 @@
-# 💫 Sobre mim:
-Atualmente me dedico ao estudo de programação e ao aprimoramento em Design UI e UX, buscando compreender tanto a lógica por trás do desenvolvimento quanto a forma como as pessoas interagem com interfaces. Meu foco é construir projetos que unam funcionalidade, clareza e boa experiência do usuário, enquanto avanço no meu desenvolvimento técnico e criativo dentro do universo da tecnologia.
+## Hello World, Eu sou Daniele! 👋<br>
 
-
-
-### 🔝 Repositórios com maiores contribuições
-![](https://github-contributor-stats.vercel.app/api?username=Daniele-SS&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
-
+🔭 Hoje trabalho com Suporte Técnico<br>
+🌱 Estou cursando Técnico em Desenvolvimento de Sistemas<br>
+🎨 Apaixonada por UI e UX Design e pelo desafio de integrar Front-end e Back-end em projetos reais<br>
+📫 Contate me: daniiellesantos@100@gmail.com
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Daniele-SS&icon=0&color=0)](https://visitcount.itsvg.in)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daniellesillva/) 
