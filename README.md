@@ -2,7 +2,7 @@
 
 🔭 Hoje trabalho com Suporte Técnico na área de atendimento<br>
 🌱 Estou cursando Técnico em Desenvolvimento de Sistemas<br>
-🎨 Apaixonada por UI e UX Design e pelo desafio de integrar Front-end e Back-end em projetos reais<br>
+🎨 Apaixonada por UX/UI Design e pelo desafio de integrar Front-end e Back-end em projetos reais<br>
 📫 Contate me: dev.daniele@outlook.com
 
 ---
