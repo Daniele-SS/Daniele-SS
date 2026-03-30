@@ -23,4 +23,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yurikomuta/yurikomuta/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img align="center" alt="cat computer" width= "40%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRvMzFjdXhjYWk5c213aDNrNWo3OGRzZGJjaGx4emozdTUydDRobCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif">
+<div align="center">
+  <img alt="cat computer" width="40%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRvMzFjdXhjYWk5c213aDNrNWo3OGRzZGJjaGx4emozdTUydDRobCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif">
+</div>
