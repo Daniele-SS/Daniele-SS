@@ -1,4 +1,4 @@
-## Hello World, Eu sou Daniele! 👋<br>
+/## Hello World, Eu sou Daniele! 👋<br>
 
 🔭 Hoje trabalho com Suporte Técnico na área de atendimento<br>
 🌱 Estou cursando Técnico em Desenvolvimento de Sistemas<br>
@@ -13,7 +13,7 @@
 ---
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellesillva/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dannii.dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danniele.xp/)
 
 ---
 
