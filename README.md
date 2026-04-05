@@ -1,4 +1,4 @@
-/## Hello World, Eu sou Daniele! 👋<br>
+## Hello World, Eu sou Daniele! 👋<br>
 
 🔭 Hoje trabalho com Suporte Técnico na área de atendimento<br>
 🌱 Estou cursando Técnico em Desenvolvimento de Sistemas<br>
