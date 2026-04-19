@@ -2,7 +2,7 @@
 
 🔭 Hoje trabalho com Suporte Técnico na área de atendimento<br>
 🌱 Estou cursando Técnico em Desenvolvimento de Sistemas<br>
-💻 Desenvolvedora Fullstack, unindo a lógica de sistemas com interfaces intuitivas para criar soluções digitais completas<br>
+💻 Desenvolvedora FullStack, unindo a lógica de sistemas com interfaces intuitivas para criar soluções digitais completas<br>
 📫 Contate-me: dev.daniele@outlook.com
 
 ---
