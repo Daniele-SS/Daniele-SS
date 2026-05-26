@@ -19,20 +19,15 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Gera DUAS versões do Pacman: uma clara e uma escura
-      - name: Generate Pacman Animation
-        uses: Platane/snk@v3
+      # Esta versão corrigida gera o Pacman real (com boca e fantasmas)
+      - name: Generate Pacman Real Animation
+        uses: lowlighter/metrics@master
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/pacman-light.svg?palette=github-light&color_snake=#f3f315
-            dist/pacman-dark.svg?palette=github-dark&color_snake=#f3f315&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
-            
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-          keep_files: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          filename: dist/pacman-contribution-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_sections: duration
+          # Injeta o estilo do Pacman clássico
+          config_tweaks: |
+            .isocalendar { background: transparent; }
