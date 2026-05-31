@@ -1,8 +1,8 @@
 ## Hello World, Eu sou Daniele! 👋<br>
 
-🔭 Hoje trabalho com Suporte Técnico na área de atendimento<br>
+🔭 Hoje trabalho como Control Desk realizando o monitoramento de tráfego e KPIs em tempo real<br>
 🌱 Estou cursando Técnico em Desenvolvimento de Sistemas<br>
-💻 Desenvolvedora FullStack, unindo a lógica de sistemas com interfaces intuitivas para criar soluções digitais completas<br>
+💻 Desenvolvedora com foco em back-end — lógica de programação, estruturação de banco de dados e construção de aplicações funcionais<br>
 📫 Contate-me: dev.daniele@outlook.com
 
 ---
