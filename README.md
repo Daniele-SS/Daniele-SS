@@ -1,6 +1,6 @@
 ## Hello World, Eu sou Daniele! 👋<br>
 
-🔭 Hoje trabalho como Control Desk realizando o monitoramento de tráfego e KPIs em tempo real<br>
+🔭 Hoje trabalho como Control Desk Pleno realizando o monitoramento de tráfego e KPIs em tempo real<br>
 🌱 Estou cursando Técnico em Desenvolvimento de Sistemas<br>
 💻 Desenvolvedora com foco em back-end — lógica de programação, estruturação de banco de dados e construção de aplicações funcionais<br>
 📫 Contate-me: dev.daniele@outlook.com
